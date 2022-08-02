@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  bala-test-publish:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-02T12:23:26.462866-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 1c165c15d0db26465e1b391c8bba494e42baa7853ce253c5689e3fb4e9ca7ef4
+    name: bala-test-publish
+    type: application
+    urls:
+    - bala-test-publish-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-02T12:23:26.462484-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 76dd28de6af781b45c07eeb4f9f17f3a3e013d99bbdeff0e5c4bf1d9ed0bf4c6
+    name: bala-test-publish
+    type: application
+    urls:
+    - bala-test-publish-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-02T12:23:26.461485-07:00"
