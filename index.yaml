@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - bala-test-publish-0.1.0.tgz
-    version: 0.1.0
+    version: 1.1.0
 generated: "2022-08-02T05:41:51.55126-07:00"
