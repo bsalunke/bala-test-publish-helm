@@ -3,7 +3,7 @@ entries:
   bala-test-publish:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-02T12:23:26.462866-07:00"
+    created: "2022-08-10T10:43:25.12057-07:00"
     description: A Helm chart for Kubernetes
     digest: 1c165c15d0db26465e1b391c8bba494e42baa7853ce253c5689e3fb4e9ca7ef4
     name: bala-test-publish
@@ -13,7 +13,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-02T12:23:26.462484-07:00"
+    created: "2022-08-10T10:43:25.12023-07:00"
     description: A Helm chart for Kubernetes
     digest: 76dd28de6af781b45c07eeb4f9f17f3a3e013d99bbdeff0e5c4bf1d9ed0bf4c6
     name: bala-test-publish
@@ -21,4 +21,15 @@ entries:
     urls:
     - bala-test-publish-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-02T12:23:26.461485-07:00"
+  qualys-container-security:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-10T10:43:25.120936-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 56e966f432e6eb9ec7fbd71aa4dcddf017bd5cd89b78052a8de4588264886f69
+    name: qualys-container-security
+    type: application
+    urls:
+    - qualys-container-security-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-10T10:43:25.119649-07:00"
